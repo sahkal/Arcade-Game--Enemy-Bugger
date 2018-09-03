@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+	 background: url(../images/background1.png) no-repeat center fixed;
+	 background-size: cover;
+	}
+h1{
+	color: yellow;
+}
+/*canvas{
+	display: none;
+}*/
